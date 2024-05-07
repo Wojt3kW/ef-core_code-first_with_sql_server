@@ -1,0 +1,1 @@
+dotnet ef --startup-project=./EFCoreDemoApp.csproj migrations add %1 --context=ShopDbContext
